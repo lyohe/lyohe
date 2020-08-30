@@ -1,16 +1,16 @@
-### Hi there 👋
+## Ryohei Tsuda - @lyohe
 
-<!--
-**lyohe/lyohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ryohei - a software developer working in Tokyo. Previously worked as a financial controller, and quit it to learn programming.
 
-Here are some ideas to get you started:
+### 🌱 I'm currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TypeScript/JavaScript, Rust.
+
+### 🔭 I’m interested in:
+
+developing my ideal accounting software with APIs to automate all activities related to financial accounting.
+
+### 📫 How to reach me:
+
+Twitter: https://twitter.com/rtsudar
+Email: lyohe(at)hey.com
