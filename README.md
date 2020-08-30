@@ -13,4 +13,8 @@ developing my ideal accounting software with APIs to automate all activities rel
 ### 📫 How to reach me:
 
 Twitter: https://twitter.com/rtsudar
+
 Email: lyohe(at)hey.com
+
+Blog(in Japanese): https://medium.com/@lyohe
+
