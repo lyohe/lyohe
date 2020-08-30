@@ -8,7 +8,7 @@ TypeScript/JavaScript, Rust.
 
 ### 🔭 I’m interested in:
 
-developing my ideal accounting software with APIs to automate all activities related to financial accounting.
+to develop my accounting software with APIs to automate all activities related to financial accounting.
 
 ### 📫 How to reach me:
 
