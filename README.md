@@ -1,8 +1,8 @@
 ## Ryohei Tsuda - @lyohe
 
-Hi, I'm Ryohei - a software developer working in Tokyo. Previously worked as a financial controller, and quit it to learn programming.
+Hi, I'm Ryohei - a software developer working in Tokyo. Previously worked as a financial controller, and quit it to learn programming because I knew that most of future work in accounting around me would be in programming or software engineering.
 
-### 🌱 I'm currently learning
+### 🌱 I'm currently learning:
 
 TypeScript/JavaScript, Rust.
 
