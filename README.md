@@ -7,9 +7,3 @@ I worked as a financial controller at several companies for around a decade, and
 ## 🔭 What I’m interested in:
 
 - develop my own accounting software with APIs to automate all activities related to financial accounting.
-
-## 📫 How to reach me:
-
-- Email: lyohe(at)hey.com
-- Twitter(in Japanese): https://twitter.com/rtsudar
-- Blog(in Japanese): https://medium.com/@lyohe
