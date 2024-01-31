@@ -1,9 +1,6 @@
 # Ryohei Tsuda - @lyohe
 
-Hi, I'm Ryohei - a software developer working in Tokyo.
+Unemployed.
 
-Using: TypeScript/JavaScript, Go
-
-## 🔭 What I’m interested in:
-
-- Accounting software
+* Like: Accounting, Boardgame, Coffee
+* Using: TypeScript/JavaScript, Go
