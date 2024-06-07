@@ -1,3 +1,3 @@
 # Ryohei Tsuda - @lyohe
 
-Unemployed.
+I'm a programmer with an interest in finance and accounting.
