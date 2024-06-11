@@ -1,3 +1,3 @@
 # Ryohei Tsuda - @lyohe
 
-I'm a programmer with an interest in finance and accounting.
+I'm a programmer with an interest in accounting ledger.
